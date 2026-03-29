@@ -3,8 +3,11 @@
 Thumbs.db
 
 # Reference papers (PDFs and extracted text - too large for git)
-Reference_paper/*.pdf
-Reference_paper/*.txt
+references/pdfs/*.pdf
+references/extracted_text/*.txt
+
+# LaTeX template (too large for git)
+deliverables/paper/
 
 # Python
 __pycache__/
@@ -30,3 +33,6 @@ venv/
 
 # Logs
 *.log
+
+# Experiment results
+results/
