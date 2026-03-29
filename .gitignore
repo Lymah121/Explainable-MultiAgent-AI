@@ -6,8 +6,8 @@ Thumbs.db
 references/pdfs/*.pdf
 references/extracted_text/*.txt
 
-# LaTeX template (too large for git)
-deliverables/paper/
+# LaTeX template and all deliverables (too large for git)
+deliverables/
 
 # Python
 __pycache__/
